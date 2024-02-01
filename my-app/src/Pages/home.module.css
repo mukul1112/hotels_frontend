@@ -1,0 +1,44 @@
+
+.content {
+    margin: 0;
+    padding: 0;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'Arial', sans-serif;
+    color: #fff; 
+  }
+  
+  .container {
+    text-align: center;
+  }
+  
+  h1 {
+    display: inline;
+    text-align: right;
+    font-size: 3em;
+    margin-bottom: 20px;
+    color: rgb(9, 70, 70);
+    margin-top: 10px;
+
+  }
+  
+  p {
+    font-size: 1.5em;
+  }
+  .navbar{
+    background-color: #050404;
+    color: #fff;
+   padding: 10px;
+   opacity: 20%;
+    width: 100%;
+   position: fixed;
+   top: 0;
+   left: 0;
+   z-index: 10; 
+   text-decoration: #050404;
+  }
